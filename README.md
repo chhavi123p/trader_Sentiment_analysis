@@ -104,3 +104,24 @@ Compared performance during:
 
 1. Install required libraries:
 
+   
+2. Place datasets in the same directory as the script.
+
+3. Run:
+
+---
+
+## 📈 Future Improvements
+
+- Add time-series predictive modeling
+- Apply advanced ML classification models
+- Perform regime-switching analysis
+- Create interactive dashboard (Streamlit / Power BI)
+
+---
+
+## 👩‍💻 Author
+
+Vaishali Rawat  
+Junior Data Science Enthusiast
+
